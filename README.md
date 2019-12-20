@@ -1,4 +1,4 @@
-# C-Command-Line-RPG
+# C#-Command-Line-RPG
 A short not at all text based RPG that's really just a battle that I made in a few hours for practice and fun.
 
 Basically just run the project through visual studio or whatever you usually use and enjoy the game for however much it's worth in this state.
